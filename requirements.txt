@@ -1,0 +1,5 @@
+torch==1.13.1
+torchvision==0.14.1
+scipy==1.9.3
+matplotlibabsl-py==0.15.0
+numpy==1.23.5
